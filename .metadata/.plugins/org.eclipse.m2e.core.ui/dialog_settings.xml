@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="wizardPage">
+		<list key="groupId">
+			<item value="RentalService"/>
+			<item value="Hello"/>
+			<item value="RestServices"/>
+			<item value="lap_mvc"/>
+			<item value="LaptopMVC"/>
+			<item value="WelcomeApp"/>
+			<item value="MVCDemo"/>
+			<item value="MVCApp"/>
+			<item value="SpringMVCApp"/>
+		</list>
+		<list key="name">
+			<item value="DVD RentaL System"/>
+			<item value="SpringREST"/>
+			<item value="SpringMVClap"/>
+			<item value="SpringMVCLaptop"/>
+			<item value="SpringWelcomeApp"/>
+			<item value="SpringMVCDemo"/>
+			<item value="SpringMVC"/>
+		</list>
+		<list key="artifactId">
+			<item value="RentalService"/>
+			<item value="Hello"/>
+			<item value="RestServices"/>
+			<item value="lap_mvc"/>
+			<item value="LaptopMVC"/>
+			<item value="WelcomeApp"/>
+			<item value="MVCDemo"/>
+			<item value="MVCApp"/>
+			<item value="SpringMVCApp"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>
